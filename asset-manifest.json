@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aspiero/static/css/main.082bb2a8.css",
+    "main.js": "/Aspiero/static/js/main.22ff6f5f.js",
+    "static/media/traveller.png": "/Aspiero/static/media/traveller.d6147572657f5b88776a.png",
+    "static/media/rome.png": "/Aspiero/static/media/rome.2da9c1233125e6683e20.png",
+    "static/media/europe.png": "/Aspiero/static/media/europe.b314c5c451abcd4e13d8.png",
+    "static/media/london.jpg": "/Aspiero/static/media/london.c6a0c4d22f19a612d360.jpg",
+    "static/media/Greece.jpg": "/Aspiero/static/media/Greece.52f5774b48ecd1764ae1.jpg",
+    "static/media/circle1.png": "/Aspiero/static/media/circle1.6bf99dd76dc2398645e8.png",
+    "static/media/circle2.png": "/Aspiero/static/media/circle2.f3b3af4fb13345d2666b.png",
+    "index.html": "/Aspiero/index.html",
+    "main.082bb2a8.css.map": "/Aspiero/static/css/main.082bb2a8.css.map",
+    "main.22ff6f5f.js.map": "/Aspiero/static/js/main.22ff6f5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082bb2a8.css",
+    "static/js/main.22ff6f5f.js"
+  ]
+}
